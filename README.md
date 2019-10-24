@@ -1,0 +1,2 @@
+# ECR-scan-Program
+It's a basic  program where you can scan multiple ECR models like DP25 , DP150....etc based on 2 arguments like  how many ECR's the distributor wants , and what color  shood they be. After that the program creates automatic an Excel File with separeted sheet for every Ecr model and color. The name of the The name of the excel file shood  be the name of the distributor for a good readability
